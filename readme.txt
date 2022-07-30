@@ -1,3 +1,4 @@
 git branch
 my branch main
-clear
+clear---
+git status
